@@ -8,8 +8,13 @@
   },
   "author": "",
   "license": "ISC",
+  "type": "module",
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@langchain/core": "^1.1.0",
+    "@langchain/google-genai": "^2.0.0",
     "dotenv": "^17.2.3",
+    "faiss-node": "^0.5.1",
     "langchain": "^1.1.1"
   }
 }
